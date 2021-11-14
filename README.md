@@ -25,3 +25,5 @@ decryption: 96 XOR 232
       
 
 In the receiver part, upload the encrypted voice data and key data, and then it will decrypt it so you can hear the original voice. The decrypted voice data then will be saved into xlsx format too, so you can ensure that the decrypted data and your calculation is same.
+
+[![View Implementation of XOR Encryption for Voice Encryption on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/93225-implementation-of-xor-encryption-for-voice-encryption)
